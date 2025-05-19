@@ -38,4 +38,4 @@ Performs the same checks as the shell script but in Powershell.
 ## Files Included
 
 ### `dbganalysis.txt`
-WinDbg `!analyze -v` output with OS info obfuscated.
+WinDbg `!analyze -v` output with OS name info obfuscated.
